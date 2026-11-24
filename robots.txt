@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://valleycrestcapital.co.ke/sitemap.xml

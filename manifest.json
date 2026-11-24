@@ -1,0 +1,15 @@
+{
+  "name": "Valley Crest Capital",
+  "short_name": "Valley Crest",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1A3B",
+  "theme_color": "#14295A",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
